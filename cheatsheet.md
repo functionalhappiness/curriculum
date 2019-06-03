@@ -1,3 +1,7 @@
+# Functions
+
+# Conditionals
+
 # Advanced Datatypes
 Vector: `[ 1 2 3 4 ]`
 
@@ -28,3 +32,7 @@ Functions for advanced Datatypes
 * [conj](https://clojuredocs.org/clojure.core/conj)
 * [concat](https://clojuredocs.org/clojure.core/concat)
 * [get-in](https://clojuredocs.org/clojure.core/get-in)
+
+# Creating logic
+* map
+* reduce
